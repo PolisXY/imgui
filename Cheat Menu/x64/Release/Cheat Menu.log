@@ -1,0 +1,31 @@
+﻿  gui.cpp
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.h(10,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.h(13,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.h(14,21): error C7525: inline variables require at least '/std:c++17'
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.h(17,16): error C7525: inline variables require at least '/std:c++17'
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.h(20,21): error C7525: inline variables require at least '/std:c++17'
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.h(21,27): error C7525: inline variables require at least '/std:c++17'
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.h(22,31): error C7525: inline variables require at least '/std:c++17'
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.cpp(75,23): warning C4244: 'return': conversion from 'LRESULT' to 'long', possible loss of data
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.cpp(84,28): error C2440: '=': cannot convert from 'long (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'WNDPROC'
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.cpp(84,28): message : This conversion requires a reinterpret_cast, a C-style cast or parenthesized function-style cast
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.cpp(118,3): error C2664: 'BOOL UnregisterClassW(LPCWSTR,HINSTANCE)': cannot convert argument 1 from 'LPCSTR' to 'LPCWSTR'
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.cpp(118,30): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(4307,1): message : see declaration of 'UnregisterClassW'
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.cpp(118,3): message : while trying to match the argument list '(LPCSTR, HINSTANCE)'
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.cpp(180,17): warning C4553: '==': result of expression not used; did you intend '='?
+  main.cpp
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.h(10,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.h(13,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.h(14,21): error C7525: inline variables require at least '/std:c++17'
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.h(17,16): error C7525: inline variables require at least '/std:c++17'
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.h(20,21): error C7525: inline variables require at least '/std:c++17'
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.h(21,27): error C7525: inline variables require at least '/std:c++17'
+C:\Users\JustJ\source\repos\Cheat Menu\Cheat Menu\cheatmenu\gui.h(22,31): error C7525: inline variables require at least '/std:c++17'
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
